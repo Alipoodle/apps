@@ -1,0 +1,8 @@
+name: 'AlphaConsole'
+description: 'AlphaConsole is a downloadable application that allows the user to replace their in-game Rocket League items with other items!'
+website: 'http://alphaconsole.net/'
+keywords:
+  - Rocket League
+  - Gaming
+category: Games
+repository: https://github.com/AlphaConsole/AlphaConsoleElectron
